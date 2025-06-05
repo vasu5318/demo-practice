@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>sparkjava-hello-world</groupId>
-	<artifactId>sparkjava-hello-world</artifactId>
-	<version>1.0</version>
+	<artifactId>sparkjava-hel-world</artifactId>
+	<version>1.0.2</version>
 	<packaging>war</packaging>
 
 	<dependencies>
@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-simple</artifactId>
-			<version>1.7.25</version>
+			<version>1.89.25</version>
 		</dependency>
 	</dependencies>
 
